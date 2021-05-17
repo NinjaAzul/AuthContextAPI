@@ -6,6 +6,6 @@ Projeto para entender melhor sobre context api dentro do universo react e react 
 # ✅ Demonstração da aplicação
 
 <h1 align="center">
-  <img src=AuthContextAPI/public/AuthContext.gif />
+  <img src=public/AuthContext.gif />
 </h1>
 
